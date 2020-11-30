@@ -19,7 +19,7 @@ body {
 
 	opacity: 0;
 	transition: opacity 1.5s ease-in;
-	transform: rotateZ(35deg) !important;
+	transform: translateX(180px) rotate(45deg);
 }
 
 #myearth.earth-ready {
