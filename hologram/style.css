@@ -2,7 +2,7 @@ html,
 body {
 	margin: 0;
 	padding: 0;
-	background: #0e120f;
+	background: #000;
 	color: white;
 	font-family: sans-serif;
 }
@@ -43,7 +43,7 @@ body {
 	max-height: 100vw;
 	transform: translate(-50%, -50%);
 	
-	background: radial-gradient(ellipse at center, rgba(0,156,255,0.05) 25%,rgba(0,156,255,0.15) 53%,rgba(0,156,255,0.05) 56%,rgba(0,156,255,0) 70%);
+	/*background: radial-gradient(ellipse at center, rgba(0,156,255,0.05) 25%,rgba(0,156,255,0.15) 53%,rgba(0,156,255,0.05) 56%,rgba(0,156,255,0) 70%);*/
 	z-index: 200;
 	pointer-events: none;
 }
