@@ -7,9 +7,9 @@ body {
 	font-family: sans-serif;
 }
 
-/*.earth-container>canvas {
+.earth-container>canvas {
  transform: rotate(35deg) !important;
-}*/
+}
 
 #myearth {
 	width: 100%;
@@ -19,7 +19,7 @@ body {
 
 	opacity: 0;
 	transition: opacity 1.5s ease-in;
-	transform: rotate3d(1, 1, 1, 45deg);
+	
 }
 
 #myearth.earth-ready {
